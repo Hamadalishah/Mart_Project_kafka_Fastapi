@@ -12,3 +12,6 @@ class Creat_User(BaseModel):
     email: str 
     password: str
     
+    
+
+    
